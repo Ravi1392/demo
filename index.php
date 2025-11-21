@@ -7,6 +7,6 @@
     </head>
     <body>
         <h1>CI CD Pipeline</h1>
-        <h2>new</h2>
+        <h2>New Changes</h2>
     </body>
 </html>
