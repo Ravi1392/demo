@@ -6,6 +6,7 @@
         <title>Document</title>
     </head>
     <body>
-        <h1>CI CD Pipeline hhhhhh</h1>
+        <h1>CI CD Pipeline</h1>
+        <h2>new</h2>
     </body>
 </html>
